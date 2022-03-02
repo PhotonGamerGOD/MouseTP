@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using UnityEngine;
 
-[assembly: MelonInfo(typeof(Mod), "MouseTP", "1.0", "Blaze#0666", "https://discord.gg/8Tuyv6Xc2T")]
+[assembly: MelonInfo(typeof(Mod), "MouseTP", "1.0", "Byteee#0001", "")]
 [assembly: MelonGame("VRChat", "VRChat")]
 
 namespace MouseTP
